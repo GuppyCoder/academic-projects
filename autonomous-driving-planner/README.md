@@ -1,3 +1,13 @@
+## Academic Integrity Notice
+
+This repository is made public solely for portfolio and educational demonstration purposes.  
+All code in this repository was completed as part of a graduate-level course at UT Austin.
+
+Any reuse, copying, or submission of this code for academic credit is a violation of university academic integrity policies.
+
+If you are a student currently taking a similar course, **do not copy or submit any part of this code.**
+
+
 # Autonomous Driving Planner
 
 This project implements multiple models to predict vehicle trajectories based on lane boundary inputs and raw images, using supervised deep learning techniques. The models were developed as part of graduate coursework in deep learning and computer vision.
