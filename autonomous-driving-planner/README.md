@@ -7,6 +7,14 @@ Any reuse, copying, or submission of this code for academic credit is a violatio
 
 If you are a student currently taking a similar course, **do not copy or submit any part of this code.**
 
+## Attribution
+
+Some components of this project (such as evaluation scripts and dataset loaders) were provided as part of the official course materials for CS [insert course number] at UT Austin.  
+They are included here solely for demonstration purposes to provide context for the models and code I developed during the course.
+
+If you are a current student in this or a similar course, **do not reuse or submit any of this code.**
+
+
 
 # Autonomous Driving Planner
 
@@ -49,6 +57,7 @@ Models achieving low longitudinal and lateral errors were able to successfully d
 - NumPy
 - Matplotlib
 - PySuperTuxKart (optional for simulation visualization)
+
 
 ## Notes
 
